@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+.data/
+evals/
+__pycache__/
+*.pyc
+*.log
+.agents/
+.claude/
+.codex/

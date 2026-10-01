@@ -1,0 +1,4 @@
+interface:
+  display_name: "hotspot-builder"
+  short_description: "先用问答明确需求，再基于 AIHOT 开发、验证和交付自己的行业热点网站"
+  default_prompt: "使用 $hotspot-builder 帮我建立自己的行业热点网站，先问清读者、信源、筛选标准和需要增加的功能，再完成开发与验证。"
